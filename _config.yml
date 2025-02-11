@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Sivakanth Gopi"
+site_theme               : "dark" # "default"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sivakanth Gopi"
 description              : &description "Personal website of Sivakanth Gopi"
@@ -28,7 +28,7 @@ author:
   bio              : "Principal Researcher"
   location         : "Mountain View, CA"
   employer         : "Microsoft Research"
-  uri              : # URL
+  uri              : "https://aka.ms/sigopi" # URL
   email            : "sigopi@microsoft.com" 
 
   # Academic websites
@@ -77,12 +77,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  # books:
+  #   title: 'Books'
+  # manuscripts:
+  #   title: 'Journal Articles'    
+  # conferences:
+  #   title: 'Conference Papers'
+  publications:
+    title: 'Publications'
+  patents:
+    title: 'Patents'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
