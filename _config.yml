@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # default,dark
+site_theme               : "dark" # default,dark
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sivakanth Gopi"
