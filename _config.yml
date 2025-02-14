@@ -32,7 +32,7 @@ author:
   email            : "sigopi@microsoft.com" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Gopi,+Sivakanth"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Gopi%2C+Sivakanth&order=-announced_date_first&size=50&abstracts=show"
   googlescholar    : "https://scholar.google.com/citations?user=bYhGFrwAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"

@@ -9,5 +9,3 @@ venue: 'US Patent 11,495,324'
 citation: ' Sergey Yekhanin,  Sivakanth Gopi, &quot;Flexible decoding in DNA data storage based on redundancy codes.&quot; US Patent 11,495,324, 2022.'
 ---
 US Patent 11,495,324
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Flexible+decoding+in+DNA+data+storage+based+on+redundancy+codes){:target="_blank"} for full citation

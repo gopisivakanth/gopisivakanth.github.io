@@ -9,5 +9,3 @@ venue: 'US Patent App. 16/562,183'
 citation: ' Sergey Yekhanin,  Sivakanth Gopi,  Henry Pfister,  Karin Strauss, &quot;Reverse concatenation of error-correcting codes in dna data storage.&quot; US Patent App. 16/562,183, 2021.'
 ---
 US Patent App. 16/562,183
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Reverse+concatenation+of+error+correcting+codes+in+dna+data+storage){:target="_blank"} for full citation

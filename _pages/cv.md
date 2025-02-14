@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](http://gopisivakanth.github.io/files/SivakanthGopi_Resume.pdf)
+[Full CV](http://gopisivakanth.github.io/files/SivakanthGopi_CV.pdf)
 
 Education
 ======
@@ -34,18 +34,6 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -54,5 +42,28 @@ Teaching
   
 Service and leadership
 ======
-* Served on PC for ...
-* Organizer of the Coding Theory semester at Simons Institute
+* Served on PC for ITCS 2024, FSTTCS 2023
+* Co-organized the [Error Correcting Codes: Theory and Practice](https://simons.berkeley.edu/programs/error-correcting-codes-theory-practice) semester program at Simons Institute, Berkeley in Spring 2024.
+
+Honors and Awards
+======
+* Best paper award at Symposium on Theory of Computing (STOC) 2015
+* Gold Medal (and ranked 9th) in the [International Physics Olympiad-2009](https://ipho-unofficial.org/timeline/2009/individual)
+* Institute Silver Medal given to the most outstanding student of Computer Science
+department, IIT Bombay
+* Ranked 3rd in the national entrance test to IITs ([IITJEE-2009](https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Joint_Entrance_Examination)) taken by around 400,000 students
+
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
+  
