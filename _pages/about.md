@@ -7,6 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a principal researcher in the [Algorithms group](https://www.microsoft.com/en-us/research/group/algorithms-redmond/) at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond). I graduated with a PhD in Theoretical Computer Science from [Princeton University](http://www.cs.princeton.edu/) in 2018. I completed my undergraduate studies at [IIT Bombay](http://www.iitb.ac.in/) with a major in computer science and a minor in mathematics.
+Principal Researcher @ [Algorithms group](https://www.microsoft.com/en-us/research/group/algorithms-redmond/), Microsoft Research\\
+PhD in Computer Science @ [Princeton University](http://www.cs.princeton.edu/)\\
+Undergrad (CS & Math) @ [IIT Bombay](http://www.iitb.ac.in/)
+<!---
+I am a principal researcher in the [Algorithms group](https://www.microsoft.com/en-us/research/group/algorithms-redmond/) at [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond). 
+I graduated with a PhD in Theoretical Computer Science from [Princeton University](http://www.cs.princeton.edu/) in 2018. I completed my undergraduate studies at [IIT Bombay](http://www.iitb.ac.in/) with a major in computer science and a minor in mathematics.
+-->
 
-I am currently working on quantization of neural networks to reduce inference costs and on improving reasoning abilities of LLMs. Previously at Microsoft, I have worked on designing erasure codes for distributed storage and on differential privacy for generating synthetic data imitating private data and for training deep learning models on private data.
+I am currently working on
+- Quantization of neural networks to reduce inference costs
+- Improving reasoning abilities of LLMs
+
+Previously at Microsoft, I worked on
+- Designing erasure codes for distributed storage
+- Differential privacy for generating private synthetic data and for training deep learning models on private data
+
+
