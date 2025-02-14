@@ -22,5 +22,3 @@ I am currently working on
 Previously at Microsoft, I worked on
 - Designing erasure codes for distributed storage
 - Differential privacy for generating private synthetic data and for training deep learning models on private data
-
-
