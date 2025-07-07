@@ -16,7 +16,7 @@ I graduated with a PhD in Theoretical Computer Science from [Princeton Universit
 -->
 
 I am currently working on
-- Quantization of neural networks to reduce inference costs
+- Efficient inference for LLMs
 - Improving reasoning abilities of LLMs
 
 Previously at Microsoft, I worked on
