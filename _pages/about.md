@@ -20,5 +20,6 @@ I am currently working on
 - Improving reasoning abilities of LLMs
 
 Previously at Microsoft, I worked on
+- Training Phi series of language models
 - Designing erasure codes for distributed storage
 - Differential privacy for generating private synthetic data and for training deep learning models on private data
