@@ -19,5 +19,5 @@ I am a researcher at OpenAI working on Reinforcement Learning (RL).
 Previously, during my stint at Microsoft Research, I worked on
 - Efficient inference for LLMs
 - Training Phi series of language models
-- Designing erasure codes for distributed storage
+- Erasure coding for distributed storage
 - Differential privacy
