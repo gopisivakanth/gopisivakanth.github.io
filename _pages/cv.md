@@ -18,7 +18,9 @@ Education
 
 Work experience
 ======
-* 2023 - present: Principal Researcher
+* 2025 - present: Member of Technical Staff
+  * OpenAI
+* 2023 - 2025: Principal Researcher
   * Microsoft Research, Redmond
 * 2020 - 2023: Senior Researcher
   * Microsoft Research, Redmond
