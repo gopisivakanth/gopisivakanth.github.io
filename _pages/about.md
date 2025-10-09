@@ -16,8 +16,8 @@ I graduated with a PhD in Theoretical Computer Science from [Princeton Universit
 
 I am a researcher at OpenAI working on Reinforcement Learning (RL). 
 
-Previously at Microsoft, I worked on
+Previously, during my stint at Microsoft Research, I worked on
 - Efficient inference for LLMs
 - Training Phi series of language models
 - Designing erasure codes for distributed storage
-- Differential privacy for generating private synthetic data and for training deep learning models on private data
+- Differential privacy
