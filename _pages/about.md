@@ -14,7 +14,7 @@ I am a researcher at OpenAI.
 I graduated with a PhD in Theoretical Computer Science from [Princeton University](http://www.cs.princeton.edu/) in 2018. I completed my undergraduate studies at [IIT Bombay](http://www.iitb.ac.in/) with a major in computer science and a minor in mathematics.
 -->
 
-I am a researcher at OpenAI working on Reinforcement Learning (RL). 
+I am a researcher at OpenAI working on Reinforcement Learning. 
 
 Previously, during my stint at Microsoft Research, I worked on
 - Efficient inference for LLMs
