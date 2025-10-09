@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Sivakanth Gopi"
   pronouns         : # example: "she/her"  
-  bio              : "Principal Researcher"
-  location         : "Mountain View, CA"
-  employer         : "Microsoft Research"
-  uri              : "https://aka.ms/sigopi" # URL
+  bio              : "Researcher"
+  location         : "San Francisco, CA"
+  employer         : "OpenAI"
+  #uri              : "https://aka.ms/sigopi" # URL
   email            : "sigopi@microsoft.com" 
 
   # Academic websites
